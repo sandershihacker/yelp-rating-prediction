@@ -4,5 +4,6 @@
 This program gathers restaurant data from the Yelp API, generates features using the gathered data, uses average ratings as labels, and trains this data using different machine learning models. 
 
 ## Project Proposal
+<Insert Proposal Here>
 
 **Team Members: Jun Hee Kim, Nikhil Rangaragan and Sander Shi.**
